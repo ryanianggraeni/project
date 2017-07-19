@@ -20,3 +20,9 @@ Route::get('prestasi',function(){
 Route::get('contact',function(){
 	return view('frontend.contact');
 });
+Route::get('alumni',function(){
+	return view('frontend.alumni');
+});
+Route::get('kurikulum',function(){
+	return view('frontend.kurikulum');
+});

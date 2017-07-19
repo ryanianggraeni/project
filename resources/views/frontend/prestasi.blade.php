@@ -63,7 +63,8 @@
                         <a class="page-scroll" href="#team">Kurikulum</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="{{url ('/contact')}}">Contact</a>
+                     
                     </li>
                 </ul>
             </div>
@@ -84,7 +85,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -100,7 +101,7 @@
                     </div>
                 </div>
                <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -116,7 +117,7 @@
                     </div>
                 </div>
                 <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -132,7 +133,7 @@
                     </div>
                 </div>
                 <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -148,7 +149,7 @@
                     </div>
                 </div>
                 <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -164,7 +165,7 @@
                     </div>
                 </div>
                 <div class="row">
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
