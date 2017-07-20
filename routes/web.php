@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('frontend.home');
 });
 Route::get('prestasi',function(){
 	return view('frontend.prestasi');
@@ -26,3 +26,6 @@ Route::get('alumni',function(){
 Route::get('kurikulum',function(){
 	return view('frontend.kurikulum');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
